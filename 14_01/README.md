@@ -163,6 +163,7 @@ Git хэш это хэш сумма, определяющая коммит в gi
 ![alt text](Pictures/Pic023.jpg)
 
 Ссылки на мои репозитории:
+
 [GitHub](https://github.com/Anton-Shcherbatykh/githw)
 
 [GitHub_2](https://github.com/Anton-Shcherbatykh/githw_2)
