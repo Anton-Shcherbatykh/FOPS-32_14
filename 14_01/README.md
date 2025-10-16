@@ -164,5 +164,7 @@ Git хэш это хэш сумма, определяющая коммит в gi
 
 Ссылки на мои репозитории:
 [GitHub](https://github.com/Anton-Shcherbatykh/githw)
+
 [GitHub_2](https://github.com/Anton-Shcherbatykh/githw_2)
+
 [GitLab](https://gitlab.com/Anton_Shcherbatykh/fops-32_14)
