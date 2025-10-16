@@ -21,7 +21,7 @@ GitLab. Для регистрации можно использовать акк
 
 Обратите внимание, как изменился результат работы команды ```git remote -v```.
 
-### Ответ
+### Решение 1
 
 ![alt text](Pictures/Pic01.jpg)
 
@@ -53,3 +53,22 @@ GitLab. Для регистрации можно использовать акк
 
 в GitLab — https://gitlab.com/YOUR_ACCOUNT/devops-netology/-/tags;
 
+### Решение 2
+
+Создал легковесный тег 0.0 на HEAD-коммите командой git tag v0.0. Проверяю результат
+
+![alt text](Pictures/Pic06.jpg)
+
+Видно, что у коммита с хэшем ab8ffdc6 и меткой HEAD (указатель последнего коммита в текущей ветке) есть тег v0.0.
+
+![alt text](Pictures/Pic07.jpg)
+
+Cоздал аннотированный тег v0.1, закоммитил и запушил в репозиторий.
+
+![alt text](Pictures/Pic09.jpg)
+![alt text](Pictures/Pic011.jpg)
+
+Смотрю теги в web интерфейсах удаленных репозиториев
+
+![alt text](Pictures/Pic010.jpg)
+![alt text](Pictures/Pic08.jpg)
